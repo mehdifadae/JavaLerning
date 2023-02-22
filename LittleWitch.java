@@ -1,4 +1,4 @@
-package ComCaveHausAufgaben;
+package JavaProjekten.JavaLerning;
 
 public class LittleWitch {
 
