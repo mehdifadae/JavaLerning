@@ -1,4 +1,4 @@
-package JavaProjekten.JavaLerning;
+package JavaLerning.JavaLerning;
 
 public class LittleWitch {
 

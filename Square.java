@@ -1,4 +1,4 @@
-package AufGabenDriteTag.Squer;
+package JavaLerning.JavaLerning;
 
 public class Square {
 
@@ -7,7 +7,6 @@ public class Square {
         long ZahlPartA;
         long ZahlPartB;
         long counter = 0;
-        int ungeradeZahlNumberSumm = 0;
 
         long EingegebeneNumber = Integer.parseInt(args[0]);
         long AddierenQuadrant = 0;

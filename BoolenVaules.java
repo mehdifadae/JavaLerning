@@ -1,4 +1,4 @@
-package JavaProjeckte.ComCave.VierteTage;
+package JavaLerning.JavaLerning;
 
 public class BoolenVaules {
 

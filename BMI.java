@@ -1,4 +1,4 @@
-package AufgabenFunfteTag;
+package JavaLerning.JavaLerning;
 
 public class BMI {
 
